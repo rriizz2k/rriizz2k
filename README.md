@@ -1,6 +1,6 @@
 ## Привет, я Руслан 👋
 
-Студент 2-го курса РЭУ им. Плеханова (Business Informatics) · учу Data Science · ищу стажировку в fintech/аналитику
+Студент 2-го курса РЭУ им. Плеханова (Business Informatics) · учу Data Science · хочу попасть на стажировку в DS / финансовую аналитику
 
 ![Python](https://img.shields.io/badge/Python-3B6D11?style=flat-square&logoColor=white)
 ![Data Science](https://img.shields.io/badge/pandas%20·%20sklearn%20·%20DS-0C447C?style=flat-square)
@@ -12,7 +12,6 @@
 ### Чем занимаюсь
 
 - 📊 Учу Data Science через реальные датасеты (Kaggle, АПЛ, кредитный скоринг)
-- 🎯 Интересуют fintech, кредитный скоринг, fraud detection
 - 🛠️ Программирую 8 лет
 - 🔍 Ищу стажировку в аналитику или Data Science
 
